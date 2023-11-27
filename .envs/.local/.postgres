@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=invoice
+POSTGRES_USER=cjsRTkiHeNXRexHvVYklJAFfYvVKmTQr
+POSTGRES_PASSWORD=alZkA9e9iwFBOtXn4QwbG9hmhQgTJX70TcLQvNDd7i9wxXRmEXhRy1KoAHZSeMSz
